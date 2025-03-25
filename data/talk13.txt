@@ -1,0 +1,5 @@
+Title: Un nuovo paradigma: l'integrazione tra Fulcrum Core, Fulcrum Framework e Fulcrum Ecosystem
+
+Speaker: Leonardo Camiciotti (TOP-IX Consortium)
+
+Abstract:

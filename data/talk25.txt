@@ -1,0 +1,7 @@
+Title:  Devops on Kubernetes: DIY in Open Source 
+
+Speaker: Gianni Forlastro (Finwave)
+
+Abstract:
+L'opensource può essere d'aiuto per la costruzione di una propria Platform as a Service? Come possiamo districarci tra i tanti prodotti a disposizione, senza tralasciare aspetti quali sicurezza, flessibilità e costi? In questa "guida galattica per DevOps-stoppisti" vedremo quali sono i vantaggi nel creare una piattaforma personalizzata rispetto a quelle commerciali, senza doversi legare a costosi piani premium. Il nostro viaggio vedrà l'uso di Keycloak per la gestione delle identità, Argocd come strumento valido e potente per l'automatizzazione delle configurazioni, soffermandoci per un "caffè d'ispezione" con Opensearch, Grafana e Prometheus.
+Il costo? Non vi preoccupate, è sotto controllo!

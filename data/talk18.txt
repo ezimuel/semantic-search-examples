@@ -1,0 +1,7 @@
+Title: Semantic search: how to query a database using natural language
+
+Speaker: Enrico Zimuel (Elastic)
+
+Abstract:
+In this presentation I'll talk about semantic search. I'll describe how a vector database works and how to store the information to be retrieved using natural language.
+I'll show some examples using Elasticsearch, an open source vector db. 

@@ -1,0 +1,6 @@
+Title: Non farmeli girare in cloud: WebGL, WebGPU e WebNN: ecco come girano i modelli su browser e dove è possibile spingersi (con un po' di pazienza)
+
+Speaker: Francesco Sciuti (devmy)
+
+Abstract:
+Solo da poco i nostri laptop riescono a far girare modelli decenti in locale...ora si pensa addirittura di farli girare direttamente su browser? Beh, si è possibile...ma come è possibile? Quali sono le API e quale è il workflow per far si che questa magia avvenga? Lo scopriamo insieme...mantenendo la pazienza! :D 

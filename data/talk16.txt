@@ -1,0 +1,5 @@
+Title: Docker e Kubernetes: come accelerarne distribuzione, scalabilitá ed adoption
+
+Speaker: Christian Massironi (OPIQUAD)
+
+Abstract:

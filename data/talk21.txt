@@ -1,0 +1,6 @@
+Title: The Good, the Bad, and the Ugly: Best Practices and Common Pitfalls in Developing AI Apps
+
+Speaker: Enrico Palumbo (Spotify)
+
+Abstract:
+In November 2022, ChatGPT was launched, showing to the world the power of AI technologies and setting the record for the fastest growing consumer app in the history of the internet (100M of monthly active users in two months). But how does ChatGPT work really? And how can we use it in the best way to develop AI applications? In my talk, I will start by giving a brief overview of how a 'Large Language Model' works, which is the technology behind ChatGPT and other modern chat-based assistants. Then, I will discuss practical strategies and best practices, as well as limitations that need to be accounted for when designing and developing AI applications. I'll conclude by describing some recently published Spotify research where we discuss the application of AI technologies to improve search and recommendations. 

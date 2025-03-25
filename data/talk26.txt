@@ -1,0 +1,7 @@
+Title: Deploying LLMs: Multimodal Applications, Advanced Reasoning and Future Growth 
+
+Speaker: Teodora Musatoiu (OpenAI)
+
+Abstract:
+Discover how OpenAI's models are reshaping industries and unlocking new possibilities. In this session, we'll dive into real-world applications of OpenAI's latest models, from legal assistants streamlining complex workflows to AI copilots enhancing decision-making across sectors.
+You'll get an inside look at building agentic voice applications with the Realtime API, learn how multimodal capabilities are expanding what's possible, and get a glimpse into the future of AI. 

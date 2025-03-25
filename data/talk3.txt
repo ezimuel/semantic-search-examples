@@ -1,0 +1,6 @@
+Title: Terraform Framework test, applicare test unitari e di integrazione
+
+Speaker: Luca Bolli (HashiCorp)
+
+Abstract:
+Sicurezza nelle pipeline cloud-native con HashiCorp Vault (focus Tekton e Kubernetes) 

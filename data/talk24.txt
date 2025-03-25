@@ -1,0 +1,7 @@
+Title: CDK Excellence: Dal Codice all'Infrastruttura - Best Practices e Metodologie
+
+Speaker: Matteo Restelli (AWS)
+
+Abstract:
+L'AWS Cloud Development Kit (CDK) offre un approccio moderno alla gestione delle infrastrutture Cloud AWS, consentendo agli sviluppatori di utilizzare linguaggi di programmazione familiari. Durante questa presentazione, condivideremo una raccolta di best practices e linee guida pratiche per l'utilizzo efficace di CDK nei progetti Cloud AWS.
+La sessione è rivolta a Sviluppatori e Cloud Architects interessati ad approfondire l'uso di CDK e migliorare i propri workflow di Infrastructure as Code 

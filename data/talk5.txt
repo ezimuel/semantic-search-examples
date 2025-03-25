@@ -1,0 +1,7 @@
+Title: Do ut Dev, la difficile (ma possibile) comunicazione fra aziende e developer
+
+Speaker: Guido Penta (Welyk)
+
+Abstract:
+Il settore IT vede nel momento del recruiting tante sfide da affrontare: da un lato c'è l'azienda che deve rendersi attrattiva, ricettiva e deve riuscire a costruire un percorso di hiring, onboarding (e retention) coerente e interessante ma spesso fatica a "farsi capire" da chi cerca lavoro. Dall'altro lato c'è chi cerca lavoro, che ha idee chiare su cosa vuole trovare (e cosa non vuole assolutamente trovare) ma spesso fatica a "farsi capire".
+Come, quindi, riuscire a diminuire le distanze fra aziende e candidati/e? Proveremo in questo talk ad offrirvi qualche spunto, valevole "ambo le parti", per diminuire le distanze fra "voi e loro" e rendere il processo di recruiting più semplice ed agevole. 

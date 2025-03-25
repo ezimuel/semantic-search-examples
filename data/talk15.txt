@@ -1,0 +1,7 @@
+Title: Harness generative AI creativity with automated reasoning
+
+Speaker: Danilo Poccia (AWS)
+
+Abstract:
+Large language models excel at generating creative solutions, while automated reasoning tools enable rigorous verification. This session explores methodologies for combining these complementary strengths to create more reliable AI systems. We'll introduce automated reasoning using open source tools and demonstrate how formal methods can guide and constrain generative AI.
+By fusing probabilistic and symbolic approaches, we'll show how to build hybrid systems that maintain creative capabilities while ensuring verifiable outputs. 

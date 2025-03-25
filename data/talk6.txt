@@ -1,0 +1,7 @@
+Title: AI-Powered Azure: simplifying cloud workflows with Microsoft Copilot
+
+Speaker: Massimo Bonanni (Microsoft)
+
+Abstract:
+This session unveils the power of Microsoft Copilot for Azure, an AI-driven tool poised to redefine cloud management. Emphasizing Copilot's ability to integrate with Azure's ecosystem through Large Language Models, it promises to simplify navigating Azure's services, optimizing costs, and enhancing productivity with natural language commands. Tailored for cloud architects, administrators, and IT managers, the session offers a mix of theory and practical demos.
+Attendees will learn how to seamlessly incorporate Copilot into their Azure workflows, ensuring a more efficient, insightful, and innovative cloud experience. 

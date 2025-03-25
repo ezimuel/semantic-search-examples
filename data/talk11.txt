@@ -1,0 +1,6 @@
+Title: Building Resilient Edge & Mobile Architectures with Couchbase Capella: An 'Offline First' Approach
+
+Speaker: Elio Salvatore (Couchbase)
+
+Abstract:
+This session explores how Couchbase Capella, a fully-managed cloud database service, empowers developers to build resilient edge and mobile architectures with an "offline first" approach. We'll delve into the critical role of offline data access in today's mobile and edge environments, demonstrating how Capella App Services enable seamless user experiences, real-time synchronization, and scalable, secure data management even with intermittent connectivity. 

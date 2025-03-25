@@ -1,0 +1,10 @@
+Title: Cloud Operations at Scale – Lessons from Managing 250 Kubernetes Clusters at Zalando
+
+Speaker: Mikkel Larsen (Zalando)
+
+Abstract:
+In this session, Zalando Principal Engineers Heinrich Hartmann and Mikkel Larsen will take you behind the scenes of the Zalando cloud operations. We'll dive into:
+Managing AWS at Scale – How we structure 250 AWS accounts to balance security, cost control, and developer velocity without drowning in complexity.
+Kubernetes Automation & Self-Service – How we handle cluster provisioning, access control, and developer workflows to keep things running smoothly.
+Major Incidents & Lessons Learned – We will share a story of how an unchecked automation triggered by a single typo, deleted all our DNS entries, how we recovered, and what we changed to make sure it never happens again.
+This talk is partly a success story, partly a cautionary tale - but 100% authentic experience. 

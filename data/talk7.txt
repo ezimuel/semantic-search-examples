@@ -1,0 +1,5 @@
+Title: Event-Driven Architectures in AWS: Sinergie e confronti tra SQS, SNS e EventBridge
+
+Speaker: Luca Christille (Corley)
+
+Abstract:

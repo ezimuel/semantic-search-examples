@@ -1,0 +1,5 @@
+Title: How would you teach (or learn) data science in Python in 15 minutes? - Insights and warnings from a tech tutor
+
+Speaker: Stefania Delprete (Freelance)
+
+Abstract:

@@ -1,0 +1,7 @@
+Title: You Can't Do AI Without APIs
+
+Speaker: Gbadebo Bello (Postman)
+
+Abstract:
+APIs are the backbone of AI. From autonomous AI agents to LLM model consumption, APIs enable the real-world adoption of AI systems at scale. In this session, we'll explore how APIs power the productization and consumption of LLM models. We'll discuss a bit about AI Agents, and how agentic workflows rely on APIs for decision-making, execution, and external tool usage.
+We'll then explore some API strategies for building LLMs and Agents with reliability, performance, security, and scalability in mind when building AI-powered systems. 

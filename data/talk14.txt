@@ -1,0 +1,7 @@
+Title:  Code Security Reinvented: Navigating the era of AI 
+
+Speaker:Joseph Katsioloudes (Github)
+
+Abstract:
+Artificial intelligence (AI) already serves as a copilot in our daily lives, acting as a digital assistant and delivering personalized experiences. Despite progress in many areas, AI has historically fallen short of improving software development practices. This changed with the introduction of AI pair programmers, which distill the collective technical know-how of the world’s developers, and their widespread adoption has been quite telling.
+While the process of building software has become easier and faster, the question remains: What about more secure? In this session, we’ll demonstrate several ways developers can use AI to leverage the world's security knowledge through dozens of practical demos in GitHub Copilot. The audience will gain a deep understanding of AI capabilities, along with insights and best practices drawn from the lessons we learned as developers striving to ship secure code. 

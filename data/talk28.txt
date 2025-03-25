@@ -1,0 +1,6 @@
+Title: A Developers Guide to Agentic AI Applications
+
+Speaker: Liam Hampton (Microsoft)
+
+Abstract:
+The world of AI has been rapidly evolving over the last 2 years and in this session you will learn about the evolution of AI Agents and where this next iteration of AI is leading us to. Liam will take you through what agents are, how they are used and how to create and deploy your very own agentic application using the Azure Developer CLI (azd) - an open source deployment tool utilising ready-made templates in Terraform and Bicep. 

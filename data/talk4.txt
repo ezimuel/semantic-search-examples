@@ -1,0 +1,6 @@
+Title: DevSecOps in azione: come automatizzare i controlli di qualità e sicurezza
+
+Speaker: Alessandro Amorini (Dynatrace)
+
+Abstract:
+Osservabilità e automazione guidate da IA possono dare un boost ai processi DevOps? Come possiamo incrementare qualità del codice e prestazioni delle applicazioni cloud native? Scoprilo in questo talk in cui mostreremo anche come automatizzare i controlli di sicurezza lungo tutto il ciclo di vita del software per aggiungere il 'Sec' al DevOps e implementare le pratiche shift-left di cui tutti parlano. 

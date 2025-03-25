@@ -1,0 +1,7 @@
+Title: FinOps e il lato oscuro del cloud: errori (costosi) che non vuoi ripetere
+
+Speaker: Nicola Ferrari (beSharp)
+
+Abstract:
+FinOps non significa solo caccia alle streghe dei costi, ma creare un equilibrio tra efficienza tecnica e sostenibilità economica, partendo da una progettazione intelligente dell'infrastruttura.
+In questo talk esploreremo tre storie vere di architetture cloud ‘da incubo' per imparare cosa non fare (e perché) e vedremo come l'approccio FinOps possa trasformare questi fallimenti in lezioni pratiche per risparmiare senza rinunciare alla qualità. 

@@ -1,0 +1,7 @@
+Title: Synthetic Monitoring & E2E Testing: 2 Sides of the Same Coin
+
+Speaker: Carly Richmond (Elastic)
+
+Abstract:
+Building beloved user applications is a challenging yet rewarding pursuit for us working in technology today. While real user monitoring, or RUM, metrics are added early for external-facing applications, they are often added as an afterthought in the building of applications for users within organisations. Instead, we rely on anecdotal discussions and review feedback that, for many reasons, can leave us with an incomplete or accurate picture of the adoption of the software we build. In this talk, I will use my experience building applications to discuss why obtaining long-term feedback on feature adoption can be challenging to validate.
+We will also outline how combining JavaScript RUM agents, and OpenTelemetry can help you quantify user experience satisfaction and adoption to ensure we provide effective user experiences.

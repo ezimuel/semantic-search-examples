@@ -1,0 +1,8 @@
+Title: Edge Native vs. Cloud: come ottimizzare le tue applicazioni
+
+Speaker: Luca Moglia (Akamai Technologies)
+
+Abstract:
+As applications demand real-time responsiveness, massive-scale data processing, and uncompromising security, the traditional cloud model is reaching its limits. Edge Native computing emerges as the next step—not just complementing the cloud but redefining it.
+Akamai's Edge platform brings compute, storage, and security closer to users, enabling ultra-low latency experiences for AI inference, IoT, Observability at scale, and high-frequency transactions. By distributing workloads intelligently across a global edge network, we reduce congestion, enhance scalability, and mitigate centralized cloud bottlenecks. More importantly, Edge Native isn't just about speed—it's about resilience. Akamai's security-first approach ensures data protection, threat mitigation, and compliance enforcement at the edge, even in the most latency-sensitive environments.
+Is Edge Native the next evolution of cloud, or is it a disruption that changes everything? Join us as we explore how businesses can harness Edge Native to achieve unprecedented performance, resilience, and security in a hyper-connected world.

@@ -1,0 +1,7 @@
+Title: Costruire e distribuire rapidamente applicazioni serverless con AWS Amplify: un case study full-stack
+
+Speaker: Pasquale Ragozzino (Gamindo)
+
+Abstract:
+Un verticale dedicato a AWS Amplify, con particolare attenzione allo sviluppo e al deployment di applicazioni full-stack serverless. Sarà illustrato un esempio reale, evidenziando le integrazioni con servizi come AppSync, Lambda e S3, e mostrando come ridurre drasticamente i tempi di rilascio.
+Gamindo road from EC2 to Amplify 

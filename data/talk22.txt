@@ -1,0 +1,7 @@
+Title:  One Protocol to rule them all: the C4 revolution
+
+Speaker: Gabriele Fronzé (Elemento Cloud)
+
+Abstract:
+When the most critical systems of our organizations run in the Cloud, relying on a single provider becomes an extremely dangerous Single Point of Failure (SPOF). At Elemento, we champion complete cloud interchangeability—across providers and between public and on-prem clouds. In this talk, I'll explore the transformative power of multicloud, sharing the journey that led us to create Elemento's C4 protocol (Cloud Computing Common Connector)—an open standard designed to make multicloud accessible and ethical, without additional complexit.
+This is a story of vision, team, and disruptive technology driving a new era of cloud freedom. 

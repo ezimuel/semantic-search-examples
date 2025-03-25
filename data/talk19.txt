@@ -1,0 +1,7 @@
+Title: Data Management su AWS: dal caos alla governance centralizzata
+
+Speaker: Alessandra Bilardi (Corley Cloud)
+
+Abstract:
+Documentare i dati è sempre l’ultima priorità: chi ha davvero tempo per farlo? E quando serve, dove si trovano le informazioni? Esiste un unico strumento per gestire tutto in modo efficace? E la sicurezza? E la governance? Sono davvero sotto controllo o disperse tra troppe soluzioni? Come garantire visibilità, conformità e accesso controllato senza complicare ulteriormente la gestione?
+In questo talk vedremo come affrontare queste sfide con un approccio strutturato e centralizzato. AWS mette a disposizione Amazon SageMaker Unified Studio, dal quale è possibile gestire la governance in modo unificato, semplificando l’amministrazione dei dati in ambienti complessi. 
